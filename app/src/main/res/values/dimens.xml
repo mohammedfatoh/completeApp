@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizntal_margin">16dp</dimen>
+    <dimen name="main_fab_margin">16dp</dimen>
+    <dimen name="custom_card_elevation">10dp</dimen>
+    <dimen name="custom_card_cornerRadius">10dp</dimen>
+    <dimen name="custom_car_iv_height">100dp</dimen>
+    <dimen name="custom_car_model_textsize">12sp</dimen>
+    <dimen name="custom_car_tv_color">12sp</dimen>
+    <dimen name="custom_car_tv">10dp</dimen>
+    <dimen name="custom_car_tv_color_width">250dp</dimen>
+    <dimen name="custom_car_tv_padding">12dp</dimen>
+</resources>

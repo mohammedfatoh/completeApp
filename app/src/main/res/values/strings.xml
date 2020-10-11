@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">completeApp</string>
+    <string name="et_details_Hint">Details</string>
+    <string name="et_details_dpl_Hint">Distance per letter</string>
+    <string name="et_details_color_Hint">Color</string>
+    <string name="et_details_Description_Hint">Describtion</string>
+
+
+</resources>
